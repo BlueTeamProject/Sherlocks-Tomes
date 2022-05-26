@@ -22,17 +22,22 @@ Files:
 
 2. a .pcap file of network traffic taken from the incident
 
-3. log file(s) containing information of CLI inputs or downloaded programs
+3. log file(s) containing information of CLI inputs or downloaded programs (journalctl.log[journalctl | tail -n100 > journalctl.log]
+									-this log file shows CLI input as well as filenames of downloads
+									-we must run 'wipe' and should consider altering date/time in log
+									to match pcap if we have time
+
+
 
 
 QUESTIONS:
-1. What did Watson download after deleting these files? - provide the filename
+1. What game did Watson download? - provide the full filename 
 
 2. What IP Address and MAC Address did it come from?
 
 3. Find as many of the six tomes you can, and speculate as to why you can't find some.
 	-leave hint file stating all 6 tomes' names.
-	-have '_wipe_' or other anti-forensics tools downloaded as evidence that they were used. 	Execution logs?
+	-have '_wipe_' or other anti-forensics tools downloaded as evidence that they were used.
 
 4. If Watson didn’t want the files recovered, what could he have done differently?
 
