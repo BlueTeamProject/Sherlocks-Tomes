@@ -23,7 +23,7 @@ Files:
 2. a .pcap file of network traffic taken from the incident
 
 3. log file(s) containing information of CLI inputs or downloaded programs (journalctl.log[journalctl | tail -n100 > journalctl.log]
-									-this log file shows CLI input as well as filenames of downloads
+									-this log file shows CLI sudo input as well as filenames of downloads
 									-we must run 'wipe' and should consider altering date/time in log
 									to match pcap if we have time
 
