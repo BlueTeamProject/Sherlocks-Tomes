@@ -45,3 +45,5 @@ QUESTIONS:
 
 5. Sherlock’s computer seems like it may be compromised! What file do you think caused this? - provide the filename
 
+6. What would be the most effective way to eliminate the threat from Sherlock's machine?
+
