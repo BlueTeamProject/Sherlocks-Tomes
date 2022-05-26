@@ -24,3 +24,17 @@ Files:
 
 3. a log file containing information of CLI or downloaded programs
 
+
+QUESTIONS:
+1. What did Watson download after deleting these files? - provide the filename
+
+2. What IP Address and MAC Address did it come from?
+
+3. Find as many of the six tomes you can, and speculate as to why you can't find some.
+	-leave hint file stating all 6 tomes' names.
+	-have '_wipe_' or other anti-forensics tools downloaded as evidence that they were used. 	Execution logs?
+
+4. If Watson didn’t want the files recovered, what could he have done differently?
+
+5. Sherlock’s computer seems like it may be compromised! What file do you think caused this? - provide the filename
+
