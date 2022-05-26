@@ -22,7 +22,7 @@ Files:
 
 2. a .pcap file of network traffic taken from the incident
 
-3. a log file containing information of CLI or downloaded programs
+3. log file(s) containing information of CLI inputs or downloaded programs
 
 
 QUESTIONS:
