@@ -16,8 +16,11 @@ When you got home, your computer was missing some important ‘tomes’ you need
 “The game is afoot…” you whisper to yourself as you begin forensic analysis of what’s happened…
 
 Files:
-a .dd image of Sherlocks computer
+1. a .dd image of Sherlocks computer
+
   -md5 hash:
-a .pcap file of network traffic taken from the incident
-a log file containing information of CLI or downloaded programs
+
+2. a .pcap file of network traffic taken from the incident
+
+3. a log file containing information of CLI or downloaded programs
 
