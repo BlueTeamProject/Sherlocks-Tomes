@@ -1,4 +1,4 @@
-# Sherlocks Tomes
+# Sherlock's Tomes
 Repository for BlueTeam Final Project
 
 
