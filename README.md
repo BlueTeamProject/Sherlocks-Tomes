@@ -22,14 +22,6 @@ Files:
 
 2. a .pcap file of network traffic clipped from around the time of the incident
 
-3. log file containing information of CLI inputs or downloaded programs (journalctl.log[journalctl | tail -n100 | grep -r "/bin/rm" > journalctl.log] this command removes the evidence of removal.
-
-
-									-this log file shows CLI sudo input as well as filenames of downloads
-									-we must run 'wipe' and should consider altering date/time in log
-									to match pcap if we have time
-
-
 
 
 QUESTIONS:
@@ -37,9 +29,7 @@ QUESTIONS:
 
 2. What IP Address and MAC Address did it come from?
 
-3. Find/rebuild as many of the six tomes you can, and speculate as to why you can't find some.
-	-leave hint file stating all 6 tomes' names.
-	-have '_sudo wipe_' usage included in log file.
+3. Find/rebuild as many of the six tomes you can, and speculate as to why you can't find some. -hint: 'Soup'
 
 4. If Watson didn’t want the files recovered, what could he have done differently? Anything effective works!
 
