@@ -1,0 +1,19 @@
+What game did Watson download?
+clue_the_game.elf
+
+What IP Address and MAC Address did it come from? 
+192.168.56.112, 08:00:27:d1:b6:f4
+
+Find/rebuild as many of the six tomes you can, and speculate as to why you can't find some.
+
+ChickenSoupfortheScripter'sSoul, TortillaSoupfortheInstructor'sSoul, LentilSoupfortheCISO'sSoul, 
+TomatoSoupfortheAnalyst'sSoul, SharkfinSoupfortheHackersSoul, MinestroneSoupforthePenTester'sSoul
+
+If Watson didn’t want the files recovered, what could he have done differently? Anything effective works!
+MANY answers. My favorite is obliterate.
+
+Sherlock’s computer seems like it may be compromised! What file do you think caused this?
+clue_the_game.elf (reverse shell)
+
+What would be the most effective way to eliminate the threat from Sherlock's/your machine?
+Reinstall the Operating System/rebuild
